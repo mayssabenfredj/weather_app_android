@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My meteo</string>
+    <string name="city">Tunisia</string>
+    <string name="weatherimage">weatherImage</string>
+    <string name="Date">Monday June 17 | 10 AM</string>
+    <string name="temperature">25°</string>
+    <string name="description_weather">description weather</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_number">22%</string>
+    <string name="rain">Rain</string>
+    <string name="rain_number">22%</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_number">18%</string>
+    <string name="next_day">Next day</string>
+</resources>
